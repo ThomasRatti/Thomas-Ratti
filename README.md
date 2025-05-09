@@ -1,4 +1,4 @@
-# 👋 Ciao, sono [Thomas Ratti]
+# 👋 Ciao, sono Thomas Ratti
 
 🎓 Studente di Informatica presso l'Università degli Studi di Milano  
 💻 Interessi: Sviluppo Web, Automazione con Python, Gestione Database  
