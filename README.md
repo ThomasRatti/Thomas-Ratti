@@ -17,6 +17,6 @@
   Disponibile inoltre al link: thomasratti.altervista.org/sitoCapolavoro/
 
 - 📚 **[Condivisione Libri Scolastici](https://github.com/thomasratti/project_SharingBooks)**  
-  Progetto orientato all’economia circolare: piattaforma pensata per favorire il riuso dei libri scolastici tra studenti, riducendo sprechi e costi. Realizzato in HTML/CSS con concetto estensibile a un’app futura.
+  Progetto orientato all’economia circolare: piattaforma pensata per favorire il riuso dei libri scolastici tra studenti, riducendo sprechi e costi. Realizzato in HTML/CSS/PHP con concetto estensibile a un’app futura.
 
 ---
