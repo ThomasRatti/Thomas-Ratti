@@ -16,7 +16,7 @@
   Sito web statico creato con HTML e CSS che racconta la carriera, le opere e le curiosità su un noto rapper americano. Focus su stile grafico e struttura dei contenuti.
   Disponibile inoltre al link: thomasratti.altervista.org/sitoCapolavoro/
 
-- 📚 **[Condivisione Libri Scolastici](https://github.com/thomasratti/libri-circolari)**  
+- 📚 **[Condivisione Libri Scolastici](https://github.com/thomasratti/project_SharingBooks)**  
   Progetto orientato all’economia circolare: piattaforma pensata per favorire il riuso dei libri scolastici tra studenti, riducendo sprechi e costi. Realizzato in HTML/CSS con concetto estensibile a un’app futura.
 
 ---
