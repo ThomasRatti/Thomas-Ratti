@@ -12,7 +12,7 @@
 
 ## 📂 Progetti Personali
 
-- 🎤 **[Biografia di un Cantante Americano](https://github.com/thomasratti/progetto-rapper)**  
+- 🎤 **[Biografia di un Cantante Americano](https://github.com/thomasratti/project_Biography)**  
   Sito web statico creato con HTML e CSS che racconta la carriera, le opere e le curiosità su un noto rapper americano. Focus su stile grafico e struttura dei contenuti.
   Disponibile inoltre al link: thomasratti.altervista.org/sitoCapolavoro/
 
