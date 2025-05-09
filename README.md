@@ -10,8 +10,12 @@
 - **Strumenti**: Git, GitHub, SQLite, Visual Studio Code
 - **Altro**: HTML/CSS (base), GitHub Pages
 
-## 📂 Progetti
+## 📂 Progetti Personali
 
-- [Portfolio Personale](link-al-repo)
-- [Script di Organizzazione File](link-al-repo)
-- [Gestione Database Libri](link-al-repo)
+- 🎤 **[Biografia di un Cantante Americano](https://github.com/thomasratti/progetto-rapper)**  
+  Sito web statico creato con HTML e CSS che racconta la carriera, le opere e le curiosità su un noto rapper americano. Focus su stile grafico e struttura dei contenuti.
+
+- 📚 **[Condivisione Libri Scolastici](https://github.com/thomasratti/libri-circolari)**  
+  Progetto orientato all’economia circolare: piattaforma pensata per favorire il riuso dei libri scolastici tra studenti, riducendo sprechi e costi. Realizzato in HTML/CSS con concetto estensibile a un’app futura.
+
+---
