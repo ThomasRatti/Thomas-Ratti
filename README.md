@@ -6,7 +6,7 @@
 
 ## 🔧 Competenze
 
-- **Linguaggi**: Java, C++, SQL, Python (base)
+- **Linguaggi**: Java, C++, SQL, PHP (base)
 - **Strumenti**: Git, GitHub, SQLite, Visual Studio Code
 - **Altro**: HTML/CSS (base), GitHub Pages
 
