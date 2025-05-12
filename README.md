@@ -7,7 +7,7 @@
 ## 🔧 Competenze
 
 - **Linguaggi**: Java, C++, SQL, PHP (base)
-- **Strumenti**: Git, GitHub, SQLite, Visual Studio Code
+- **Strumenti**: Git, GitHub, Visual Studio Code
 - **Altro**: HTML/CSS (base), GitHub Pages
 
 ## 📂 Progetti Personali
